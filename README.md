@@ -41,8 +41,7 @@
 gRPC / REST / SQLx / GORM
 
 ### ☁️ **Infrastructure**
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,linux" /><br/>
-K8s(Minikube) / Cloudflare
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,cloudflare,linux,ubuntu,windows" /><br/>
 
 </td>
 <td width="50%" align="center" valign="top">
@@ -52,30 +51,10 @@ K8s(Minikube) / Cloudflare
 Makefile / GitHub Actions
 
 ### 💻  **Languages & Frameworks**
-<img src="https://skillicons.dev/icons?i=java,spring,python,ts,react" /><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,ts,react,tailwind" /><br/>
 
 </td>
 </tr>
 </table>
-
----
-
-## 📊 **GitHub Analytics**
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kiryu0423&theme=transparent&border_radius=10" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kiryu0423&custom_title=%20GitHub%20Activity&bg_color=0d1117&color=3fffd6&line=3fffd6&point=3fffd6&area=true&hide_border=true" />
-</div>
-
----
-
-## 🏆 **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kiryu0423&theme=transparent&no-frame=true&margin-w=4&column=7&rank=SECRET,SSS,SS,S,AAA,AA,A,B" />
-</div>
 
 ---
